@@ -29,5 +29,11 @@
         "used_for_extension": true,
         "extended_key": "376C7FCE-EA81-4DFA-8030-A58E674249DA",
         "extended_at": "2025-03-30T15:18:11.035825+00:00"
+    },
+    "A63EA07D-28C8-437B-A89C-3A982400ED8D": {
+        "enabled": true,
+        "expires_at": "2025-04-05T09:06:37.903860+00:00",
+        "created_at": "2025-04-04T09:06:37.903860+00:00",
+        "duration_days": 1
     }
 }
